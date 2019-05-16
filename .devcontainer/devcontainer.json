@@ -1,0 +1,7 @@
+{
+  "name": "Craps Simulator",
+  "dockerFile": "Dockerfile",
+  "appPort": 9000,
+  "context": "..",
+  "extensions": ["ms-python.python"]
+}
